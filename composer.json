@@ -1,0 +1,9 @@
+{
+    "name": "david/projet-facture",
+    "autoload": {
+        "psr-4": {
+            "David\\ProjetFacture\\": "src/"
+        }
+    },
+    "require": {}
+}
